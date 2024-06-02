@@ -12,7 +12,8 @@
 ### 1. Сбор данных
 
 > Файл с парсингом:
-> Файл с полученными даннными: [01_andan_project](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/01_processdata.ipynb)
+> 
+> Файл с полученными даннными: [01_andan_project]([https://github.com/KatyaPischikova/academic-butter-knife/blob/main/01_processdata.ipynb](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/andan_project.ipynb))
 
 Первым этапом был парсинг данных из публичного сообщества ВКонтакте. Мы собрали информацию о постах, включая лайки, репосты, просмотры и комментарии.
 
