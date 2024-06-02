@@ -19,7 +19,7 @@
 
 ### 2. Обработка данных
 
-> Файл с данным шагом: [02_processdata](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/01_processdata.ipynb)
+> Файл с данным шагом: [02_processdata](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/02_processdata.ipynb)
 
 После получения данных мы провели их предварительную обработку:
   * Очистили данные от дубликатов
