@@ -11,13 +11,14 @@
 
 ### 1. Сбор данных
 
-
+> Файл с парсингом:
+> Файл с полученными даннными: [01_andan_project](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/01_processdata.ipynb)
 
 Первым этапом был парсинг данных из публичного сообщества ВКонтакте. Мы собрали информацию о постах, включая лайки, репосты, просмотры и комментарии.
 
 ### 2. Обработка данных
 
-> Файл с данным шагом: [01_processdata](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/01_processdata.ipynb)
+> Файл с данным шагом: [02_processdata](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/01_processdata.ipynb)
 
 После получения данных мы провели их предварительную обработку:
   * Очистили данные от дубликатов и пропусков
