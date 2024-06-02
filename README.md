@@ -11,7 +11,7 @@
 
 ### 1. Сбор данных
 
-> Файл с парсингом:
+> Файл с парсингом: https://drive.google.com/drive/folders/1a4nQloaVLp49sl22Ud_X8bWr6e127oFs?usp=sharing
 
 > Файл с полученными даннными: [project_datacet.csv](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/info/project_dataset.csv)
 
