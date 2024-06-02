@@ -57,7 +57,7 @@
 
 ### 4. Создание новых переменных
 
-> Файл с данным шагом:  [04_newfeatures](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/04_newfeatures.ipynb))
+> Файл с данным шагом:  [04_newfeatures](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/04_newfeatures.ipynb)
 
 Для дальнейшей проверки гипотез и применения методов машинного обучения мы также создали ряд новых переменных:
   * `ER` - Engagement Rate by Views, соотношение всех целевых активностей аудитории (лайки, репосты, комментарии) к просмотрам
