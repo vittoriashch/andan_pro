@@ -66,7 +66,7 @@
 
 ### 5. Проверка гипотез
 
-> Файл с данным шагом:  [05_hypotheses](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/04_newfeatures.ipynb)
+> Файл с данным шагом:  [05_hypotheses](https://github.com/KatyaPischikova/academic-butter-knife/blob/main/05_hypotheses.ipynb)
 
 Все гипотезы проверялись на уровне значимости **5%**.
 
